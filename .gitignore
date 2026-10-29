@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+	# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+#for a test run
+print("hey wsp!")
+#apparently yu gotta go like name = print(name)
+name = input("whats yur name?")
+#greet em
+print(f"wasaaaaaaappppp, {name}!")
+#now do wtv yu wanna
+answer = input("do yu like turtles?")
+print(f"ouuuu shiii")
